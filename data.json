@@ -1,0 +1,72 @@
+{
+  "settings": {
+    "title": "Picnic Moments Contest 2026",
+    "subtitle": "পিকনিক খোৱা-বোৱা, ফটো আৰু ভিডিঅ’ আপলোড কৰক — সৰ্বশ্ৰেষ্ঠ ফটো/ভিডিঅ’ই পাব নগদ পুৰস্কাৰ!",
+    "eventDate": "December 2026",
+    "prizes": {
+      "first": "₹5,000",
+      "second": "₹2,500",
+      "third": "₹1,000"
+    },
+    "adsEnabled": true,
+    "adsenseClientId": "",
+    "sponsors": [
+      {
+        "id": "sp-1",
+        "name": "Brahmaputra River Tours & Picnic Spot",
+        "tagline": "Book riverside tents, bamboo huts & sound systems for your group picnic!",
+        "cta": "Sponsor Slot #1 — Click to Visit",
+        "url": "#sponsor-demo-1",
+        "badge": "Sponsored"
+      },
+      {
+        "id": "sp-2",
+        "name": "Assam Kitchen & Catering",
+        "tagline": "Fresh local picnic catering packages starting at ₹299/plate.",
+        "cta": "Sponsor Slot #2 — Advertise Here",
+        "url": "#sponsor-demo-2",
+        "badge": "Local Ad"
+      }
+    ],
+    "adminPin": "1234",
+    "winnerId": null
+  },
+  "entries": [
+    {
+      "id": "sample-1",
+      "name": "Rituraj Bora",
+      "phone": "9876543210",
+      "title": "Riverside Banana Leaf Picnic Feast!",
+      "category": "Picnic Feast",
+      "mediaType": "photo",
+      "mediaUrl": "/samples/feast.jpg",
+      "votes": 42,
+      "createdAt": "2026-11-23T09:30:00.000Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-2",
+      "name": "Priyanka Kalita",
+      "phone": "9876543211",
+      "title": "Best Friends Forever — Picnic Vibes 2026",
+      "category": "Group Fun",
+      "mediaType": "photo",
+      "mediaUrl": "/samples/group.jpg",
+      "votes": 36,
+      "createdAt": "2026-11-23T11:15:00.000Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-3",
+      "name": "Manash Das",
+      "phone": "9876543212",
+      "title": "Morning Sunshine by the Crystal River",
+      "category": "Nature & Spot",
+      "mediaType": "photo",
+      "mediaUrl": "/samples/nature.jpg",
+      "votes": 28,
+      "createdAt": "2026-11-24T06:00:00.000Z",
+      "isSample": true
+    }
+  ]
+}
